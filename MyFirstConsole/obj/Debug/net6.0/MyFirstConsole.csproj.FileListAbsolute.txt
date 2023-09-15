@@ -1,0 +1,15 @@
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/bin/Debug/net6.0/MyFirstConsole
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/bin/Debug/net6.0/MyFirstConsole.deps.json
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/bin/Debug/net6.0/MyFirstConsole.runtimeconfig.json
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/bin/Debug/net6.0/MyFirstConsole.dll
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/bin/Debug/net6.0/MyFirstConsole.pdb
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/MyFirstConsole.csproj.AssemblyReference.cache
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/MyFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/MyFirstConsole.AssemblyInfoInputs.cache
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/MyFirstConsole.AssemblyInfo.cs
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/MyFirstConsole.csproj.CoreCompileInputs.cache
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/MyFirstConsole.dll
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/refint/MyFirstConsole.dll
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/MyFirstConsole.pdb
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/MyFirstConsole.genruntimeconfig.cache
+/Users/hs/Desktop/workspaces/csharp/MyFirstConsole/MyFirstConsole/obj/Debug/net6.0/ref/MyFirstConsole.dll
